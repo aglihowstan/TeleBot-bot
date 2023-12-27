@@ -1,4 +1,6 @@
-Telegram Bot for Channel Subscription Verification Description
+Telegram Bot for Channel Subscription Verification
+
+Description
 
 This repository contains the source code for a Telegram bot designed to automate the process of checking user subscriptions to a Telegram channel. The bot plays a crucial role in attracting subscribers and managing promotional content.
 
